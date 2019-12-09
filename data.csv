@@ -1,0 +1,46 @@
+_id,PermitNum,Description,AppliedDate,IssuedDate,CompletedDate,OriginalAddress1,OriginalCity,OriginalState,OriginalZip,PermitClass,PermitClassMapped,StatusCurrent,StatusCurrentMapped,WorkClass,WorkClassMapped,PermitType,PermitTypeMapped,PermitTypeDesc,StatusDate,TotalSqFt,Link,EstProjectCost,HousingUnits,PIN,ContractorCompanyName,ContractorTrade,ContractorTradeMapped,ContractorLicNum,ContractorStateLic,ContractorFullName,ContractorCompanyDesc,ContractorPhone,ContractorAddress1,ContractorAddress2,ContractorCity,ContractorState,ContractorZip,ContractorEmail,ProposedUsed,AddedSqFt,MasterPermitNum,ExpiresDate,COIssuedDate,Publisher,Fee,LastUpdated,LAT,LON
+14724,PDS2016-COMALT-000098,"Cross street:  Lilac Rd
+
+Description of Work:  100 amp ag meter for existing for irrigation
+
+*** Using address 31957 Aquaduct ""A"", Bonsall for Ag meter ****",2016-02-26,2016-03-03,"",31957 AQUADUCT RD A ,BONSALL,CA,92003,Commercial Alteration-Addn,Non-Residential,Issued Expired,Permit Expired,Existing,Existing,Commercial Alteration or Addition - Plan Check-Permit,Electrical,8000 - ACC - Electrical Only,2016-10-09,"",https://publicservices.sdcounty.ca.gov/citizenaccess/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=16CAP&capID2=00000&capID3=00GUQ,"",0,127-221-27-00,"","","","","","","","","","","","","","","Cross street:  Lilac Rd
+
+Description of Work:  100 amp ag meter for existing for irrigation
+
+*** Using address 31957 Aquaduct ""A"", Bonsall for Ag meter ****","","","","",San Diego - Prod 7.3.3.8.1,297.3,2018-07-28,,
+4,PDS2017-RESALT-001720,"CROSS STREET: Country Club Dr
+
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+PerSection 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5 ft. above the highest point of the existing roof.",2017-03-10,2017-03-10,2017-05-16,2741 OVERLOOK POINT DR ,ESCONDIDO,CA,92029,Residential Alteration-Addn,Residential,Completed,Permit Finaled,Existing,Existing,Residential Alteration or Addition - Plan Check-Permit,Electrical,8002 - REN - (Online) RES Roof Mt Solar PV,2017-05-16,"",https://publicservices.sdcounty.ca.gov/citizenaccess/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=17CAP&capID2=00000&capID3=00L44,"",0,"",SUNPOWER CORPORATION SYSTEMS,CSLB Contractor,"",890895,CA,"","",941 720-3850,77 RIO ROBLES,"",SAN JOSE,CA,95134,"","CROSS STREET: Country Club Dr
+
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+PerSection 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5 ft. above the highest point of the existing roof.","","","",2017-05-15,San Diego - Prod 7.3.3.8.1,0,2017-05-17,33.102682877405144,-117.12915539649096
+3,PDS2017-RESALT-001694,"CROSS STREET: Country Club Dr
+
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+PerSection 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5 ft. above the highest point of the existing roof.",2017-03-10,2017-03-10,2017-04-04,2902 HILL VALLEY DR ,ESCONDIDO,CA,92029,Residential Alteration-Addn,Residential,Completed,Permit Finaled,Existing,Existing,Residential Alteration or Addition - Plan Check-Permit,Electrical,8002 - REN - (Online) RES Roof Mt Solar PV,2017-04-04,"",https://publicservices.sdcounty.ca.gov/citizenaccess/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=17CAP&capID2=00000&capID3=00KZR,"",0,228-311-29-00,SOLARE ENERGY INC,CSLB Contractor,"",941109,CA,Rich Vallee ,"",858 547-4300,9520 PADGETT STREET SUITE 107,"",SAN DIEGO,CA,92126,john@inallproducts.com,"CROSS STREET: Country Club Dr
+
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+PerSection 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5 ft. above the highest point of the existing roof.","","","",2017-04-03,San Diego - Prod 7.3.3.8.1,0,2017-04-05,33.125687062519745,-117.13409421967005
+2,PDS2017-RESALT-001702,"CROSS STREET: Castle Ct Dr
+
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+PerSection 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5 ft. above the highest point of the existing roof.",2017-03-10,2017-03-10,2017-04-13,9613 LOS COCHES RD ,LAKESIDE,CA,92040,Residential Alteration-Addn,Residential,Completed,Permit Finaled,Existing,Existing,Residential Alteration or Addition - Plan Check-Permit,Electrical,8002 - REN - (Online) RES Roof Mt Solar PV,2017-04-13,"",https://publicservices.sdcounty.ca.gov/citizenaccess/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=17CAP&capID2=00000&capID3=00L09,"",0,"",K A CARLISLE INC,CSLB Contractor,"",950065,CA,"","",619 390-2991,8137 WINTER GARDENS BLVD,"",LAKESIDE,CA,92040,sky@precisi9onelectricsolar.com,"CROSS STREET: Castle Ct Dr
+
+Description of Work: HRA (Online Permit) ROOF MOUNT RESIDENTIAL SOLAR PV FOR EXISTING SFD (No Meter Upgrade).
+
+PerSection 4620 (i) of the zoning ordinance, roof mounted photovoltaic systems shall not extend more than 5 ft. above the highest point of the existing roof.","","","",2017-04-12,San Diego - Prod 7.3.3.8.1,0,2017-04-14,32.853222527365553,-116.91881027648918
+78782,PDS2017-RESALT-003648,"CROSS STREET: Alexander
+
+Description of Work: Existing Residential Main Electrical Service Upgrade - 200A - (Online Permit)
+
+*The scope of work is limited to upgrade of the existing main service panel.  No new sub-panels or relocation permitted.",2017-05-12,2017-05-12,2017-07-10,520 WOODLAND HILLS DR ,ESCONDIDO,CA,92029,Residential Alteration-Addn,Residential,Completed,Permit Finaled,Existing,Existing,Residential Alteration or Addition - Plan Check-Permit,Electrical,8070 - ACC - (Online) Electrical - Existing Main Svc Upgrade (Max 400A),2017-07-10,"",https://publicservices.sdcounty.ca.gov/citizenaccess/Cap/CapDetail.aspx?Module=Building&TabName=Building&capID1=17CAP&capID2=00000&capID3=016T5,"",0,"","","","","","","","","","","","","","","","CROSS STREET: Alexander
+
+Description of Work: Existing Residential Main Electrical Service Upgrade - 200A - (Online Permit)
+
+*The scope of work is limited to upgrade of the existing main service panel.  No new sub-panels or relocation permitted.","","","",2017-07-09,San Diego - Prod 7.3.3.8.1,247,2017-07-11,33.082655491525173,-117.0785280642681
